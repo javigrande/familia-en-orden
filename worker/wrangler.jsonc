@@ -1,0 +1,8 @@
+{
+  "name":"familia-en-orden-api",
+  "main":"src/index.js",
+  "compatibility_date":"2026-10-01",
+  "d1_databases":[{"binding":"DB","database_name":"familia-en-orden","database_id":"REEMPLAZAR_CON_DATABASE_ID","migrations_dir":"migrations"}],
+  "triggers":{"crons":["*/5 * * * *"]},
+  "vars":{"ALLOWED_ORIGIN":"https://TU-USUARIO.github.io", "VAPID_PUBLIC_KEY":"", "VAPID_SUBJECT":"mailto:tu-correo@example.com"}
+}

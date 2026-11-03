@@ -1,0 +1,6 @@
+{
+  "name":"familia-en-orden-api","version":"1.0.0","private":true,"type":"module",
+  "scripts":{"dev":"wrangler dev","deploy":"wrangler deploy","db:local":"wrangler d1 migrations apply DB --local","db:remote":"wrangler d1 migrations apply DB --remote"},
+  "dependencies":{"@block65/webcrypto-web-push":"^2.0.0"},
+  "devDependencies":{"wrangler":"^4.0.0"}
+}

@@ -1,0 +1,1 @@
+{"name":"Familia en Orden","short_name":"Familia","description":"Las tareas de casa, entre todos","start_url":"./","scope":"./","display":"standalone","background_color":"#f4f7fb","theme_color":"#152a40","lang":"es","icons":[{"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any"},{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}]}
