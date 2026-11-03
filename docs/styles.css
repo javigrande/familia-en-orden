@@ -48,3 +48,6 @@ body{background:radial-gradient(ellipse at top right,#e4deff 0,transparent 42%),
 body:has(#app-screen.hidden) .tabs{display:none!important}
 @media(max-width:800px){.tabs #manage-tab{display:none!important}}
 @media(max-width:400px){.tabs button{font-size:9px!important;padding:8px 0!important}.tabs .nav-icon .icon{height:21px!important;width:21px!important}}
+
+/* V1.5 · Editor de tareas */
+.editor-actions{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin-top:16px}.editor-actions .primary{flex:1;min-width:160px}.template-card .actions{display:flex;gap:8px;flex-wrap:wrap}.template-card .edit-btn{background:linear-gradient(135deg,#8a48e9,#6133d8);color:white;border:0}.template-card .edit-btn svg{width:17px;height:17px;vertical-align:middle}.template-card .task-body{min-width:0;flex:1}.template-card .task-body p{overflow-wrap:anywhere}
